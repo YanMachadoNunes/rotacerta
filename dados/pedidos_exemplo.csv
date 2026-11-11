@@ -1,0 +1,10 @@
+tipo,cliente,cep,numero
+loja,Floricultura Ipê (loja),80020310,500
+pedido,Ana,80230010,1200
+pedido,Bruno,80250104,300
+pedido,Carla,80510000,150
+pedido,Diego,80530000,800
+pedido,Elisa,80730000,1000
+pedido,Fábio,80050350,450
+pedido,Gabi,81070000,2000
+pedido,CEP inválido de propósito,99999999,1
